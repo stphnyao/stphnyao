@@ -11,4 +11,4 @@ Welcome to my portfolio, where I showcase my projects.
 - Visualization: Looker Studio, Tableau, Metabase
 
 👋🏻 Connect with Me
-- [Linkedin](https://link-url-here.org](https://www.linkedin.com/in/stphnyao/)
+- [Linkedin]([(https://www.linkedin.com/in/stphnyao/)])

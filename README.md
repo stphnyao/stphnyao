@@ -3,6 +3,7 @@
 I'm Stephen. I'm a Data Scientist. I'm lw obssessed with numbers and concepts. My expertise is in understanding problems at a very deep level, and being able to move them in a meaningful way. My 5+ years of experience in finance, consulting, and tech has shown me patterns in nature tend to be the main drivers of numbers, and conceptually understanding these patterns is what gets me excited.
 
 📚 Projects
+
 Welcome to my portfolio, where I showcase my projects.
 
 🛠️ Tools
@@ -11,4 +12,4 @@ Welcome to my portfolio, where I showcase my projects.
 - Visualization: Looker Studio, Tableau, Metabase
 
 👋🏻 Connect with Me
-- [Linkedin]([(https://www.linkedin.com/in/stphnyao/)])
+- [Linkedin](https://www.linkedin.com/in/stphnyao/)

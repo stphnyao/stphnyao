@@ -7,8 +7,8 @@ I'm Stephen. I'm a Data Scientist. I'm obssessed with numbers and concepts. My e
 Welcome to my portfolio, where I showcase my projects.
 
 🛠️ Tools
-- Languages: SQL, Python, JavaScript (Next.JS), Rust
-- Database: Google Bigquery, Amazon Redshift
+- Languages: SQL, Python, JavaScript/TypeScript (Next.JS), Rust
+- Database: Google Bigquery, Amazon Redshift, Snowflake
 - Visualization: Looker Studio, Tableau, Metabase
 
 👋🏻 Connect with Me
